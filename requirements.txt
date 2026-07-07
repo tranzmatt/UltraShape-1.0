@@ -1,9 +1,6 @@
 accelerate==1.1.1
 diffusers==0.30.0
-deepspeed
-diso==0.1.4
 einops==0.8.1
-flash_attn==2.8.3
 huggingface_hub==0.36.0
 imageio==2.36.0
 ipywidgets==8.1.7
@@ -20,7 +17,6 @@ pythreejs==2.4.2
 pytorch_lightning==1.9.5
 PyYAML==6.0.2
 safetensors==0.7.0
-sageattention==1.0.6
 scikit-image==0.24.0
 onnxruntime
 rembg
