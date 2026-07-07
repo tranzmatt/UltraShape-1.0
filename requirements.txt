@@ -20,6 +20,7 @@ safetensors==0.7.0
 scikit-image==0.24.0
 onnxruntime
 rembg
+setuptools<70
 tensorboard
 timm==1.0.22
 torchdiffeq==0.2.5
